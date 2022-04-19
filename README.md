@@ -1,2 +1,2 @@
-# Desafio-Boostrap
-Las paginas para el desafio BS son index.html , team.html y estilos.css. Las 5 son responsive pero no tienen contenido todavia.
+# 2da Pre-Entrega
+Las paginas para la Pre-entrega2  son index.html , team.html y estilos.css. Las 5 son responsive pero no tienen contenido todavia. Le agregue una animacion en el fondo del footer muy copada
